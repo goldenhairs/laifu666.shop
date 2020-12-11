@@ -1,0 +1,15 @@
+<view class="container">
+    <view class='about-wrap'>
+        <view class='title'>来福小店</view>
+        <view class='content'>
+            来福小程序商城
+        </view>
+        <view class="line"></view>
+        <view class="content">开发者：follow</view>
+        <view class="content">微信：18678160681</view>
+        <view class="line"></view>
+        <view class='content'>
+            更多信息访问：www.laifu666.shop
+        </view>
+    </view>
+</view>
