@@ -124,5 +124,5 @@ http://www.kdniao.com/UserCenter/v4/UserHome.aspx
 ![avatar](http://106.14.41.119/wxds.png)  
 支付宝打赏：  
 ![avatar](http://106.14.41.119/zfb.jpg)  
-- 项目地址 
+- 项目地址 https://github.com/goldenhairs/laifu666.shop.git
  
